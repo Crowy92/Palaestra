@@ -1,2 +1,0 @@
-# Palaestra
-Tinder for sports
